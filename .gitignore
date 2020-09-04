@@ -1,0 +1,13 @@
+.DS_Store
+UserInterfaceState.xcuserstate
+/.build
+/Packages
+/*.xcodeproj
+xcuserdata/
+default.profraw
+Build
+builder
+/sources/schemes
+/sources/templates
+/schemes
+/templates
